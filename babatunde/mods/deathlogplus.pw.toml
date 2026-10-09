@@ -1,0 +1,13 @@
+name = "DeathLogPlus"
+filename = "deathlogplus-fabric-26.2-1.0.2-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kmz8J4sz/versions/njK4dVTR/deathlogplus-fabric-26.2-1.0.2-26.2.jar"
+hash-format = "sha512"
+hash = "6b37b60ee68c8c2dcd36aac46d9bf1207bc62eaa5b7d0c165cb3f9f8befe712cdd1e12ee851706b9ee635aad06028dd3083b3576f48df842f75b8f97b056c1b0"
+
+[update.modrinth]
+mod-id = "kmz8J4sz"
+version = "njK4dVTR"
+

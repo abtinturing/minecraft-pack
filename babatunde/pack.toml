@@ -1,0 +1,12 @@
+name = "babatunde"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c3f6e4fd97679ad3f8aa18634c4d98e494e1861f0246db213e8497dc436bd1f7"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
