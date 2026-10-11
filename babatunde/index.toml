@@ -19,7 +19,7 @@ preserve = true
 
 [[files]]
 file = "config/streamsreflowing.properties"
-hash = "356f0b15ecbd68087079085da7e23b0798f31415403b45f85cd246a5bba3ddb8"
+hash = "444b8c79e9a91532de4f70b68cbc497d77a7ec8d079dba28df202439d8867344"
 
 [[files]]
 file = "config/streamsreflowing/bank_features/GUIDE.md"
@@ -310,6 +310,11 @@ hash = "4aa823b80b7cf42efdf6df1413c287ec00b3fe9982e679e0352e249bbaf2710c"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "65784c0e1baab6810683f9db79bad7b3d97898840be358cbc90f7919c111174b"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "4e13763b1852ac2030e675c7d900890d825de32d9c87d21e67e465aeca25b40c"
 metafile = true
@@ -416,7 +421,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "ce3323dccc5dff160ed9813952a05168d5d3dcd8567f3aa5d4c00fc5de4dcb09"
+hash = "d690313e61a4c56df07d14f59a488e9f29bbb88376eed463a656950b47d65eb3"
 metafile = true
 
 [[files]]
